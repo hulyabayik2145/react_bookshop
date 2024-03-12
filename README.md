@@ -1,6 +1,6 @@
 <h3>Kitap Kurdu Web Sitesi</h3>
 
-- - Bu projede bir js aracı olan vite kullanılarak hazırlanmıştır.
+- Bu proje bir js aracı olan vite kullanılarak hazırlanmıştır.
 
 ## Başlarken
 
@@ -39,7 +39,8 @@ Bu proje aşağıdaki teknolojileri kullanmaktadır:
 
 - React
 - Vite
-- JSON Server
+- JSON Serve
+- Css
 
 <h3>Ekran Gif</h3>
 
