@@ -26,7 +26,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip 
 
 - npm run dev
 
-6. terminalin size gözerdiği adresi tarayıcınızda açın
+6. terminalin size gösterdiği adresi tarayıcınızda açın
 
 ## Kullanım
 
